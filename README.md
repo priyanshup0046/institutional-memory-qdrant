@@ -7,7 +7,7 @@ It is especially useful in constitutional and privacy law, where judicial reason
 
 All detailed technical and theoretical explanations are maintained in separate documentation to keep this README clean, minimal, and accessible.
 
-🎯 Intended Users
+##Intended Users
 
 Practicing lawyers seeking relevant precedents and evolved reasoning
 
@@ -17,7 +17,7 @@ Members of the general public seeking constitutional clarity
 
 Researchers studying institutional judicial behavior
 
-🧠 What the System Does
+## What the System Does
 
 The system goes beyond keyword-based legal search. It:
 
