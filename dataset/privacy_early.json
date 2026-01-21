@@ -1,0 +1,37 @@
+{
+  "issue": "The constitutional status and scope of the Right to Privacy as an implicit component of Personal Liberty under Article 21.",
+  "time_range": "1963 – 1994",
+  "memory_id":1,
+  "stage": "early",
+  "core_reasoning": [
+    "Expansion of Article 21: The Court consistently shifts from a literal, physical interpretation of liberty toward a compendious and penumbral view, where Article 21 acts as a residual reservoir for rights not explicitly named but essential to the dignity of the individual.",
+    "Common Law Castle to Constitutional Space: The reasoning evolves from protecting a physical space (the home as a rampart against physical intrusion) to protecting an abstract personal space (the right to be let alone) that includes intimate choices and information.",
+    "The Law/Executive Distinction: A recurring institutional rule is that fundamental rights cannot be curtailed by mere executive instructions or departmental regulations; any restriction on privacy must be grounded in a formal procedure established by law.",
+    "Narrow Construction as a Saving Tool: To avoid striking down state surveillance powers entirely, the Court employs reading down techniques—limiting the application of intrusive laws only to specific criminal classes or 'compelling interests' rather than allowing general or routine use.",
+    "Transnational Jurisprudential Borrowing: The Court progressively adopts US 'penumbral' logic (Griswold/Roe) and English common law maxims to fill the silence of the Indian Constitution regarding the word 'privacy'"
+  ],
+  "Arguments_accepted": [
+    {
+      "The Sanctity of the Home": "Arguments that physical intrusion into the domestic sphere (nightly visits) violates the concept of ordered liberty."
+    },
+    {
+      "Compelling State Interest": "The state's claim that surveillance is permissible if it is narrowly tailored to prevent crime and protect 'community security'."
+    },
+    {
+      "Public Record Exception": "Arguments that once information enters the public record (court documents, official files), the claim to privacy is waived or significantly diminished."
+    },
+    {
+      "Prior Restraint Prohibitions": "The press’s argument that public officials cannot use privacy as a shield to prevent the publication of information regarding their official conduct before it is even printed."
+    }
+  ],
+  "Arguments_rejected": [
+    "Psychological Restraint as Freedom of Movement: The Court repeatedly rejected the argument that 'shadowing' or surveillance violates Article 19(1)(d) (freedom of movement) by creating psychological inhibitions, insisting instead that 19(1)(d) only covers physical impediments.",
+    "Privacy as an Absolute Right: The argument that privacy is an untouchable fundamental right; the Court maintains it is subject to 'case-by-case development' and reasonable restrictions.",
+    "Vicarious Privacy Protection: The argument that the State can act on behalf of a citizen (e.g., a prisoner) to suppress speech under the guise of protecting that citizen’s privacy."
+  ],
+  "linked_cases": [
+    "Kharak Singh vs. State of Uttar Pradesh and Ors. (1963)",
+    "Govind v. State of Madhya Pradesh (1975)",
+    "R. Rajagopal v. State of Tamil Nadu (1994)"
+  ]
+}

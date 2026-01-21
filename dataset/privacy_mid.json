@@ -1,0 +1,31 @@
+{
+    "issue": "The establishment of Privacy as a foundational, independent fundamental right and its application to digital identity, informational self-determination, and bodily autonomy.",
+    "time_range": "2017–2018",
+    "memory_id":3,
+    "stage": "mid ",
+    "core_reasoning": [
+      "Natural Rights Jurisprudence: Privacy is a pre-constitutional right recognized, not granted, by the State.",
+      "Rejection of Silo Doctrine: Adopted the 'Golden Triangle' approach where privacy is the postulate enabling Articles 14, 19, and 21.",
+      "Four-Fold Proportionality Test: Mandates Legality, Legitimate Aim, Proportionality, and Procedural Safeguards for any state intrusion.",
+      "Multidimensional Scope: Expanded from spatial (physical) privacy to include Decisional Autonomy and Informational Self-Determination.",
+      "Primacy of Constitutional Morality: Individual dignity and privacy outweigh popular morality or social/religious tradition."
+    ],
+    "arguments_accepted": [
+      "Inseparability of Dignity and Privacy: Dignity is the core, and privacy is the protective shell.",
+      "Positive State Obligation: The State must actively protect individual data from private and state actors.",
+      "Non-derogability for Welfare: Citizens cannot be forced to trade privacy for access to socio-economic rights.",
+      "Privacy of Intrinsic Physiological Data: Biological facts are intrinsic to personhood and deserve high-level protection."
+    ],
+    "arguments_rejected": [
+      "Constitutional Silence Argument: Rejection of the theory that absence of the word 'Privacy' means absence of the right.",
+      "Efficiency Justification: Administrative convenience does not override the need for least-restrictive measures.",
+      "Group Autonomy over Individual Liberty: Religious/Group rights under Art. 26 cannot violate individual Art. 21 protections.",
+      "Informed Consent as a Formalism: Rejection of the idea that signing up for a state service constitutes a total waiver of privacy."
+    ],
+    "linked_cases": [
+      "Justice K.S. Puttaswamy (Retd.) & Anr. vs. Union of India & Ors. (2017)",
+      "Justice K.S. Puttaswamy (Aadhaar) vs. Union of India (2018)",
+      "Indian Young Lawyers Association vs. State of Kerala (2018)"
+    ]
+  
+}

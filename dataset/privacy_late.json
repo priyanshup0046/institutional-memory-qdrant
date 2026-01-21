@@ -1,0 +1,29 @@
+{
+    "issue": "The enforcement of Privacy in the digital age, specifically regarding state-sponsored surveillance, the limits of the 'National Security' defense, and the Right to Be Forgotten (RTBF).",
+    "time_range": "2021–2026",
+    "memory_id":2,
+    "stage": "late",
+    "core_reasoning": [
+      "Rejection of Talismanic Shields: The Court reasons that 'National Security' is not a talisman that grants the State total immunity from judicial scrutiny; the State must demonstrate a specific nexus to security when fundamental rights are at stake.",
+      "Technological Due Process: In the absence of State transparency on complex digital matters, the Court adopts an 'active oversight' stance, utilizing independent expert committees to verify facts rather than accepting vague executive denials.",
+      "Informational Self-Determination: The reasoning establishes that the right to privacy includes control over one's digital afterlife; the permanent discoverability of outdated or prejudicial data is seen as an affront to Article 21 dignity.",
+      "Constitutional Chilling Effect: The Court reasons that untracked surveillance compromises the independence of democratic institutions (press and judiciary), moving the harm of privacy violations from the individual to the collective constitutional fabric.",
+      "Temporal Limitation of Public Interest: The interpretive stance holds that the 'public interest' in information is not eternal; once the legal or social necessity of data expires, the individual's right to move on takes precedence."
+    ],
+    "arguments_accepted": [
+      "Insufficiency of Omnibus Denials: The argument that a 'limited affidavit' from the State is an inadequate response to prima facie evidence of high-tech surveillance.",
+      "Right to Erasure/De-indexing: The claim that the permanent nature of the internet requires judicial intervention to mask identities of acquitted persons or parties in sensitive matrimonial disputes.",
+      "Privacy as a Democratic Prerequisite: The argument that without privacy, the freedom of speech (Article 19) is functionally destroyed by self-censorship and fear."
+    ],
+    "arguments_rejected": [
+      "Executive Supremacy in Security: The State's argument that the judiciary lacks the competence or jurisdiction to question the methods used for national intelligence.",
+      "Open Justice as Absolute: The argument that the 'Open Justice' principle requires court records to remain permanently indexed and searchable by the public, regardless of the prejudice caused to the individual.",
+      "Waiver by Prosecution: The argument that by being an accused in a public trial, a person permanently loses their right to control their identity in the digital public square."
+    ],
+    "linked_cases": [
+      "Manohar Lal Sharma vs. Union of India (Pegasus Case) [2021]",
+      "Justice K.S. Puttaswamy v. Union of India (RTBF Interpretations) [2017/2023]",
+      "Petitions on Right to be Forgotten and Erasure of Court Records [2021-2024]"
+    ]
+  
+}
